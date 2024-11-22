@@ -1,0 +1,21 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\pic_project\Recuperacao_Nota_Prova\Recuperacao_Nota_Prova.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\pic_project\Recuperacao_Nota_Prova\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "Recuperacao_Nota_Prova.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_D.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	Recuperacao_Nota_Prova.c
+warning: 197	1505	Suspicious pointer conversion	Recuperacao_Nota_Prova.c
+warning: 199	1505	Suspicious pointer conversion	Recuperacao_Nota_Prova.c
+warning: 217	1505	Suspicious pointer conversion	Recuperacao_Nota_Prova.c
+warning: 218	1505	Suspicious pointer conversion	Recuperacao_Nota_Prova.c
+warning: 232	1505	Suspicious pointer conversion	Recuperacao_Nota_Prova.c
+warning: 234	1505	Suspicious pointer conversion	Recuperacao_Nota_Prova.c
+warning: 241	1505	Suspicious pointer conversion	Recuperacao_Nota_Prova.c
+warning: 243	1505	Suspicious pointer conversion	Recuperacao_Nota_Prova.c
+warning: 251	1505	Suspicious pointer conversion	Recuperacao_Nota_Prova.c
+warning: 253	1505	Suspicious pointer conversion	Recuperacao_Nota_Prova.c
+diagnostics: 270	123	Compiled Successfully	Recuperacao_Nota_Prova.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 264 (17%)  Free RAM (bytes): 1251 (83%)	Used RAM (bytes): 264 (17%)  Free RAM (bytes): 1251 (83%)
+hint: 0	1144	Used ROM (bytes): 4151 (13%)  Free ROM (bytes): 28617 (87%)	Used ROM (bytes): 4151 (13%)  Free ROM (bytes): 28617 (87%)
+diagnostics: 0	125	Project Linked Successfully	Recuperacao_Nota_Prova.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'Recuperacao_Nota_Prova.mcppi' completed: 94 ms	 
+diagnostics: 0	103	Finished successfully: 21 nov 2024, 21:56:52	Recuperacao_Nota_Prova.mcppi
